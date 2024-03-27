@@ -15,7 +15,7 @@ Here are some of the key skills I possess:
 
 ## Projects
 I've worked on various projects, including:
-- **E-commerce Website**: Contributed to the development of an e-commerce platform with a team of developers.
+- **E-commerce Website**: Contributed to developing an e-commerce platform.
 
 ## Interests
 Outside of work, I'm interested in:
@@ -26,14 +26,14 @@ Outside of work, I'm interested in:
 
 ## Goals
 My short-term and long-term goals include:
-- **Short-term**: Enhance my skills in Software development, complete certification in network security.
-- **Long-term**: Lead a development team, contribute to innovative projects in the cybersecurity space.
+- **Short-term**: Enhance my skills in Software development and complete certification in Full stack development.
+- **Long-term**: Lead a development team contributing to innovative software engineering projects.
 
 ## Collaboration
 I'm open to collaboration opportunities, including:
 - **Open Source Projects**: Contributing to impactful open-source projects.
-- **Freelance Work**: Taking on interesting freelance projects in software development and network engineering.
-- **Networking**: Connecting with fellow professionals and enthusiasts for potential collaborations and knowledge sharing.
+- **Freelance Work**: Taking on interesting freelance software development and network engineering projects.
+- **Networking**: Connecting with professionals and enthusiasts for potential collaborations and knowledge sharing.
 
 ## Contact
 Feel free to reach out to me via:
