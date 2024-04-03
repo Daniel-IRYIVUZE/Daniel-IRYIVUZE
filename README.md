@@ -41,6 +41,5 @@ Feel free to reach out to me via:
 - **Mobile**: +250780162164
 - **LinkedIn**: [Daniel Iryivuze on LinkedIn](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
 - **GitHub**: [Daniel Iryivuze on GitHub](https://github.com/Daniel-IRYIVUZE)
-- **Instagram**:https://www.instagram.com/iry_daniel/
-
+- **Instagram**: [Daniel Iryivuze on Instagram](https://www.instagram.com/iry_daniel/)
 Let's connect and build something amazing together! 🚀
