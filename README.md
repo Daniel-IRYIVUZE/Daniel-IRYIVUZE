@@ -42,4 +42,5 @@ Feel free to reach out to me via:
 - **LinkedIn**: [Daniel Iryivuze on LinkedIn](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
 - **GitHub**: [Daniel Iryivuze on GitHub](https://github.com/Daniel-IRYIVUZE)
 - **Instagram**: [Daniel Iryivuze on Instagram](https://www.instagram.com/iry_daniel/)
-Let's connect and build something amazing together! 🚀
+  
+> Let's connect and build something amazing together! 🚀
