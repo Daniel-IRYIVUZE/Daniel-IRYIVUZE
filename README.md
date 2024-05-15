@@ -2,15 +2,15 @@
 Hey there! I'm thrilled to have you here. I am a motivated and courageous software engineer relentlessly pursuing excellence. I am ready to embrace new challenges, push the boundaries of technology, and contribute my skills to create impactful and transformative software solutions. I'm passionate about leveraging technology to solve complex problems and create meaningful solutions.
 
 ## About Me
-- **![User](https://img.shields.io/badge/User-000000?style=flat-square&logo=user&logoColor=white)**: Daniel IRYIVUZE
-- **![Location](https://img.shields.io/badge/Location-000000?style=flat-square&logo=google-maps&logoColor=white)**: Kigali, Rwanda
+- **![User](https://img.shields.io/badge/User-000000?style=flat-square&logo=user&logoColor=white)** : Daniel IRYIVUZE
+- **![Location](https://img.shields.io/badge/Location-000000?style=flat-square&logo=google-maps&logoColor=white)** : Kigali, Rwanda
   
 ## Skills
 Here are some of the key skills I possess:
 
 - **Software Development**: Agile methodology, Git, Docker, RESTful APIs
 - **Frontend Development**: HTML, CSS, JavaScript, React.js
-- **Backend Development**: Node.js, Django, Flask (Python), Ruby on Rails
+- **Backend Development**: Node.js, Django, Flask (Python), Ruby on Rails, PHP
 - **Database design and development**: MongoDB, MySQL, PostgreSQL, Firebase
 - **Networking**: TCP/IP, DNS, VPNs, Firewalls
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
@@ -21,7 +21,14 @@ Here are some of the key skills I possess:
 
 ## Projects
 I've worked on various projects, including:
-- **E-commerce Website**: Contributed to developing an e-commerce platform.
+- **E-commerce Web Application**: I developed an e-commerce web application using HTML, CSS, Javascript, and PHP.
+- **Todo list Mobile App**: progressing project 
+- **Advertising Website**: future project.
+- **Employee Management Website**: future project.
+- **School Management Website**: future project.
+- **Health care Mobile App**: future project.
+- **Job Application website**: future project.
+- **Banking system**: future project.
 
 ## Interests
 Outside of work, I'm interested in:
@@ -43,10 +50,10 @@ I'm open to collaboration opportunities, including:
 
 ## Contact
 Feel free to reach out to me via:
-- **![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)**: danieliryivuze4@gmail.com
-- **![Mobile](https://img.shields.io/badge/Mobile-000000?style=flat-square&logo=mobile&logoColor=whitw)**: +250780162164
-- **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-iryivuze-992141278/)**: [Daniel Iryivuze on LinkedIn](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
-- **[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Daniel-IRYIVUZE)**: [Daniel Iryivuze on GitHub](https://github.com/Daniel-IRYIVUZE)
-- **[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iry_daniel/)**: [Daniel Iryivuze on Instagram](https://www.instagram.com/iry_daniel/)
+- **![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)** : danieliryivuze4@gmail.com
+- **![Mobile](https://img.shields.io/badge/Mobile-000000?style=flat-square&logo=mobile&logoColor=whitw)** : +250780162164
+- **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-iryivuze-992141278/)** : [Daniel Iryivuze on LinkedIn](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
+- **[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Daniel-IRYIVUZE)** : [Daniel Iryivuze on GitHub](https://github.com/Daniel-IRYIVUZE)
+- **[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iry_daniel/)** : [Daniel Iryivuze on Instagram](https://www.instagram.com/iry_daniel/)
 
 > Let's connect and build something amazing together! 🚀
