@@ -7,9 +7,15 @@ Hey there! I'm thrilled to have you here. I am a motivated and courageous softwa
   
 ## Skills
 Here are some of the key skills I possess:
-- **Programming Languages**: Python, JavaScript, Java, C++
+
 - **Software Development**: Agile methodology, Git, Docker, RESTful APIs
+- **Frontend Development**: HTML, CSS, JavaScript, React.js
+- **Backend Development**: Node.js, Django, Flask (Python), Ruby on Rails
+- **Database design and development**: MongoDB, MySQL, PostgreSQL, Firebase
 - **Networking**: TCP/IP, DNS, VPNs, Firewalls
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Deployment and Hosting**: Netlify, AWS, Azure, Google Cloud Platform
+- **Mobile Development**: React Native, Flutter, Swift, Java, Kotlin
 - **Problem Solving**: Analytical thinking, debugging, algorithm design
 - **Communication**: Clear written and verbal communication, active listening
 
