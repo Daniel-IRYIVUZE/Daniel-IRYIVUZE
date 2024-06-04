@@ -1,5 +1,5 @@
 ## Introduction
-Hey there! I'm thrilled to have you here. I am a motivated and courageous software engineer relentlessly pursuing excellence. I am ready to embrace new challenges, push the boundaries of technology, and contribute my skills to create impactful and transformative software solutions. I'm passionate about leveraging technology to solve complex problems and create meaningful solutions.
+Hey there! I'm thrilled to have you here. I am a motivated and courageous software engineer relentlessly pursuing excellence. I am ready to embrace new challenges, push the boundaries of technology, and contribute my skills to create impactful and transformative software solutions. I'm passionate about leveraging technology to solve complex problems and create meaningful solutions to real-world problems.
 
 ## About Me
 - **![User](https://img.shields.io/badge/User-000000?style=flat-square&logo=user&logoColor=white)** : Daniel IRYIVUZE
@@ -8,14 +8,14 @@ Hey there! I'm thrilled to have you here. I am a motivated and courageous softwa
 ## Skills
 Here are some of the key skills I possess:
 
-- **Software Development**: Agile methodology, Git, Docker, C, C++, Restful API
+- **Software Development**: Agile methodology, Docker, Restful API
 - **Frontend Development**: HTML, CSS, JavaScript, React.js
-- **Backend Development**: Node.js, Django, Flask (Python), Ruby on Rails, PHP
-- **Database design and development**: MongoDB, MySQL, PostgreSQL, Firebase
+- **Backend Development**: Node.js, Flask (Python), PHP
+- **Database design and development**: MongoDB, MySQL, Firebase
 - **Networking**: TCP/IP, DNS, VPNs, Firewalls
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
 - **Deployment and Hosting**: Netlify, AWS, Azure, Google Cloud Platform
-- **Mobile Development**: React Native, Flutter, Swift, Java, Kotlin
+- **Mobile Development**: React Native, Flutter, Swift and Java
 - **Problem Solving**: Analytical thinking, debugging, algorithm design
 - **Communication**: Clear written and verbal communication, active listening
 
