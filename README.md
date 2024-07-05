@@ -30,10 +30,10 @@ Here are some of the technologies I work with:
 - **Others**: Agile methodology, RESTful APIs
 
 ## GitHub Stats
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-IRYIVUZE&show_icons=true&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-IRYIVUZE&show_icons=true&theme=light)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-IRYIVUZE&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-IRYIVUZE&layout=compact&theme=light)
 
 ## Projects
 I've worked on various projects, including:
@@ -71,6 +71,5 @@ Feel free to reach out to me via:
 - **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-iryivuze-992141278/)** : [Daniel Iryivuze on LinkedIn](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
 - **[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Daniel-IRYIVUZE)** : [Daniel Iryivuze on GitHub](https://github.com/Daniel-IRYIVUZE)
 - **[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iry_daniel/)** : [Daniel Iryivuze on Instagram](https://www.instagram.com/iry_daniel/)
-
 
 > Let's connect and build something amazing together! 🚀
