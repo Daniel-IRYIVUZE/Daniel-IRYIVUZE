@@ -72,4 +72,5 @@ Feel free to reach out to me via:
 - **[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Daniel-IRYIVUZE)** : [Daniel Iryivuze on GitHub](https://github.com/Daniel-IRYIVUZE)
 - **[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iry_daniel/)** : [Daniel Iryivuze on Instagram](https://www.instagram.com/iry_daniel/)
 
+
 > Let's connect and build something amazing together! 🚀
