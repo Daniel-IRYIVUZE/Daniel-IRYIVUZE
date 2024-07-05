@@ -4,7 +4,7 @@ Hey there! I'm thrilled to have you here. I am a motivated and courageous softwa
 ## About Me
 - **![User](https://img.shields.io/badge/User-000000?style=flat-square&logo=user&logoColor=white)** : Daniel IRYIVUZE
 - **![Location](https://img.shields.io/badge/Location-000000?style=flat-square&logo=google-maps&logoColor=white)** : Kigali, Rwanda
-  
+
 ## Skills
 Here are some of the key skills I possess:
 
@@ -19,16 +19,32 @@ Here are some of the key skills I possess:
 - **Problem Solving**: Analytical thinking, debugging, algorithm design
 - **Communication**: Clear written and verbal communication, active listening
 
+## Tech Stack
+Here are some of the technologies I work with:
+
+- **Languages**: JavaScript, Python, PHP, Swift, Java, HTML, CSS
+- **Frameworks/Libraries**: React.js, Node.js, Flask, Flutter
+- **Databases**: MongoDB, MySQL, Firebase
+- **DevOps Tools**: Docker, GitHub Actions
+- **Cloud Services**: AWS, Azure, Google Cloud Platform
+- **Others**: Agile methodology, RESTful APIs
+
+## GitHub Stats
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-IRYIVUZE&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-IRYIVUZE&layout=compact&theme=radical)
+
 ## Projects
 I've worked on various projects, including:
-- **E-commerce Web Application**: I developed an e-commerce web application using HTML, CSS, Javascript, and PHP.
-- **Todo list Mobile App**: progressing project 
-- **Advertising Website**: future project.
-- **Employee Management Website**: future project.
-- **School Management Website**: future project.
-- **Health care Mobile App**: future project.
-- **Job Application website**: future project.
-- **Banking system**: future project.
+- **E-commerce Web Application**: I developed an e-commerce web application using HTML, CSS, JavaScript, and PHP.
+- **Todo list Mobile App**: Progressing project.
+- **Advertising Website**: Future project.
+- **Employee Management Website**: Future project.
+- **School Management Website**: Future project.
+- **Health care Mobile App**: Future project.
+- **Job Application Website**: Future project.
+- **Banking System**: Future project.
 
 ## Interests
 Outside of work, I'm interested in:
@@ -39,7 +55,7 @@ Outside of work, I'm interested in:
 
 ## Goals
 My short-term and long-term goals include:
-- **Short-term**: Enhance my skills in Software development and complete certification in Full stack development.
+- **Short-term**: Enhance my skills in software development and complete certification in full stack development.
 - **Long-term**: Lead a development team contributing to innovative software engineering projects.
 
 ## Collaboration
@@ -51,7 +67,7 @@ I'm open to collaboration opportunities, including:
 ## Contact
 Feel free to reach out to me via:
 - **[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.instagram.com/iry_daniel/)** : danieliryivuze4@gmail.com
-- **[![Mobile](https://img.shields.io/badge/Mobile-000000?style=flat-square&logo=mobile&logoColor=whitw)](https://www.linkedin.com/in/daniel-iryivuze-992141278/)** : +250780162164
+- **[![Mobile](https://img.shields.io/badge/Mobile-000000?style=flat-square&logo=mobile&logoColor=white)](https://www.linkedin.com/in/daniel-iryivuze-992141278/)** : +250780162164
 - **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-iryivuze-992141278/)** : [Daniel Iryivuze on LinkedIn](https://www.linkedin.com/in/daniel-iryivuze-992141278/)
 - **[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Daniel-IRYIVUZE)** : [Daniel Iryivuze on GitHub](https://github.com/Daniel-IRYIVUZE)
 - **[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iry_daniel/)** : [Daniel Iryivuze on Instagram](https://www.instagram.com/iry_daniel/)
