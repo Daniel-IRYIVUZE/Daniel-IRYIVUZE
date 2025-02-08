@@ -1,6 +1,6 @@
 ## Introduction
 Hey there! I'm thrilled to have you here. I am a motivated and courageous software engineer relentlessly pursuing excellence. I am ready to embrace new challenges, push the boundaries of technology, and contribute my skills to create impactful and transformative software solutions. I'm passionate about leveraging technology to solve complex problems and create meaningful solutions to real-world problems.
-
+![Profile Views](https://komarev.com/ghpvc/?username=Daniel-IRYIVUZE&color=blue)
 ## About Me
 - **![User](https://img.shields.io/badge/User-000000?style=flat-square&logo=user&logoColor=white)** : Daniel IRYIVUZE
 - **![Location](https://img.shields.io/badge/Location-000000?style=flat-square&logo=google-maps&logoColor=white)** : Kigali, Rwanda
